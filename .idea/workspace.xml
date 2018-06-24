@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a56bb4c4-2172-4121-9096-5961b48c0e5d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" />
+      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" />
+      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" />
+      <change beforePath="$PROJECT_DIR$/Ch02/README.txt" afterPath="$PROJECT_DIR$/Ch02/README.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch02/datingTestSet.txt" afterPath="$PROJECT_DIR$/Ch02/datingTestSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" afterPath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch02/kNN.py" afterPath="$PROJECT_DIR$/Ch02/kNN.py" />
+      <change beforePath="$PROJECT_DIR$/Ch03/classifierStorage.txt" afterPath="$PROJECT_DIR$/Ch03/classifierStorage.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch03/lenses.txt" afterPath="$PROJECT_DIR$/Ch03/lenses.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/Ch03/treePlotter.py" />
+      <change beforePath="$PROJECT_DIR$/Ch03/trees.py" afterPath="$PROJECT_DIR$/Ch03/trees.py" />
+      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" />
+      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" />
+      <change beforePath="$PROJECT_DIR$/Ch04/bayes.py" afterPath="$PROJECT_DIR$/Ch04/bayes.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/horseColicTest.txt" afterPath="$PROJECT_DIR$/Ch05/horseColicTest.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" afterPath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch05/logRegres.py" afterPath="$PROJECT_DIR$/Ch05/logRegres.py" />
+      <change beforePath="$PROJECT_DIR$/Ch05/testSet.txt" afterPath="$PROJECT_DIR$/Ch05/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" />
+      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" />
+      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" />
+      <change beforePath="$PROJECT_DIR$/Ch06/svmMLiA.py" afterPath="$PROJECT_DIR$/Ch06/svmMLiA.py" />
+      <change beforePath="$PROJECT_DIR$/Ch06/testSet.txt" afterPath="$PROJECT_DIR$/Ch06/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch06/testSetRBF.txt" afterPath="$PROJECT_DIR$/Ch06/testSetRBF.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" afterPath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" />
+      <change beforePath="$PROJECT_DIR$/Ch07/adaboost.py" afterPath="$PROJECT_DIR$/Ch07/adaboost.py" />
+      <change beforePath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" afterPath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" afterPath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch08/abalone.txt" afterPath="$PROJECT_DIR$/Ch08/abalone.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch08/ex0.txt" afterPath="$PROJECT_DIR$/Ch08/ex0.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch08/ex1.txt" afterPath="$PROJECT_DIR$/Ch08/ex1.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch08/regression.py" afterPath="$PROJECT_DIR$/Ch08/regression.py" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" />
+      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" />
+      <change beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/ex0.txt" afterPath="$PROJECT_DIR$/Ch09/ex0.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/ex00.txt" afterPath="$PROJECT_DIR$/Ch09/ex00.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/ex2.txt" afterPath="$PROJECT_DIR$/Ch09/ex2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/ex2test.txt" afterPath="$PROJECT_DIR$/Ch09/ex2test.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/exp.txt" afterPath="$PROJECT_DIR$/Ch09/exp.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/exp2.txt" afterPath="$PROJECT_DIR$/Ch09/exp2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/expTest.txt" afterPath="$PROJECT_DIR$/Ch09/expTest.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/regTrees.py" afterPath="$PROJECT_DIR$/Ch09/regTrees.py" />
+      <change beforePath="$PROJECT_DIR$/Ch09/sine.txt" afterPath="$PROJECT_DIR$/Ch09/sine.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch09/treeExplore.py" afterPath="$PROJECT_DIR$/Ch09/treeExplore.py" />
+      <change beforePath="$PROJECT_DIR$/Ch10/kMeans.py" afterPath="$PROJECT_DIR$/Ch10/kMeans.py" />
+      <change beforePath="$PROJECT_DIR$/Ch10/places.txt" afterPath="$PROJECT_DIR$/Ch10/places.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch10/testSet.txt" afterPath="$PROJECT_DIR$/Ch10/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch10/testSet2.txt" afterPath="$PROJECT_DIR$/Ch10/testSet2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch11/apriori.py" afterPath="$PROJECT_DIR$/Ch11/apriori.py" />
+      <change beforePath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" afterPath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" afterPath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch11/meaning20.txt" afterPath="$PROJECT_DIR$/Ch11/meaning20.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch11/recent100bills.txt" afterPath="$PROJECT_DIR$/Ch11/recent100bills.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch11/recent20bills.txt" afterPath="$PROJECT_DIR$/Ch11/recent20bills.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch12/fpGrowth.py" afterPath="$PROJECT_DIR$/Ch12/fpGrowth.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig1.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig1.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig2.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig2.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig3.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig3.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig4.py" afterPath="$PROJECT_DIR$/Ch13/extras/createFig4.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/pca.py" afterPath="$PROJECT_DIR$/Ch13/pca.py" />
+      <change beforePath="$PROJECT_DIR$/Ch13/secom.data" afterPath="$PROJECT_DIR$/Ch13/secom.data" />
+      <change beforePath="$PROJECT_DIR$/Ch13/testSet.txt" afterPath="$PROJECT_DIR$/Ch13/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch13/testSet3.txt" afterPath="$PROJECT_DIR$/Ch13/testSet3.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch14/0_5.txt" afterPath="$PROJECT_DIR$/Ch14/0_5.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch14/svdRec.py" afterPath="$PROJECT_DIR$/Ch14/svdRec.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/kickStart.txt" afterPath="$PROJECT_DIR$/Ch15/kickStart.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch15/mrMean.py" afterPath="$PROJECT_DIR$/Ch15/mrMean.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" afterPath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" afterPath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/mrSVM.py" afterPath="$PROJECT_DIR$/Ch15/mrSVM.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" afterPath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/myout.txt" afterPath="$PROJECT_DIR$/Ch15/myout.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch15/pegasos.py" afterPath="$PROJECT_DIR$/Ch15/pegasos.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/proximalSVM.py" afterPath="$PROJECT_DIR$/Ch15/proximalSVM.py" />
+      <change beforePath="$PROJECT_DIR$/Ch15/svmDat2.txt" afterPath="$PROJECT_DIR$/Ch15/svmDat2.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch15/svmDat26" afterPath="$PROJECT_DIR$/Ch15/svmDat26" />
+      <change beforePath="$PROJECT_DIR$/Ch15/svmDat27" afterPath="$PROJECT_DIR$/Ch15/svmDat27" />
+      <change beforePath="$PROJECT_DIR$/Ch15/svmData.txt" afterPath="$PROJECT_DIR$/Ch15/svmData.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch15/testSet.txt" afterPath="$PROJECT_DIR$/Ch15/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/Ch15/testSet200.txt" afterPath="$PROJECT_DIR$/Ch15/testSet200.txt" />
+      <change beforePath="$PROJECT_DIR$/README.rst" afterPath="$PROJECT_DIR$/README.rst" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#384#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1234" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56bb4c4-2172-4121-9096-5961b48c0e5d" name="Default" comment="" />
+      <created>1529822050430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529822050430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="23" width="1233" height="777" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../python_env/py2.7.10/lib/python2.7/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#384#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
