@@ -1,1 +1,2 @@
-*.rst linguist-language=Python
+static/* linguist-vendored
+templates/* linguist-vendored
